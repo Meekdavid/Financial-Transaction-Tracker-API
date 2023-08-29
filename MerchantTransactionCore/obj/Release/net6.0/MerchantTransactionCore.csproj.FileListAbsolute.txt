@@ -1,0 +1,14 @@
+C:\Users\david.mboko\source\repos\GTCollectionRequeryAPI\MerchantTransactionCore\bin\Release\net6.0\MerchantTransactionCore.deps.json
+C:\Users\david.mboko\source\repos\GTCollectionRequeryAPI\MerchantTransactionCore\bin\Release\net6.0\MerchantTransactionCore.dll
+C:\Users\david.mboko\source\repos\GTCollectionRequeryAPI\MerchantTransactionCore\bin\Release\net6.0\MerchantTransactionCore.pdb
+C:\Users\david.mboko\source\repos\GTCollectionRequeryAPI\MerchantTransactionCore\bin\Release\net6.0\GTBEncryptLibrary.dll
+C:\Users\david.mboko\source\repos\GTCollectionRequeryAPI\MerchantTransactionCore\obj\Release\net6.0\MerchantTransactionCore.csproj.AssemblyReference.cache
+C:\Users\david.mboko\source\repos\GTCollectionRequeryAPI\MerchantTransactionCore\obj\Release\net6.0\MerchantTransactionCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.mboko\source\repos\GTCollectionRequeryAPI\MerchantTransactionCore\obj\Release\net6.0\MerchantTransactionCore.AssemblyInfoInputs.cache
+C:\Users\david.mboko\source\repos\GTCollectionRequeryAPI\MerchantTransactionCore\obj\Release\net6.0\MerchantTransactionCore.AssemblyInfo.cs
+C:\Users\david.mboko\source\repos\GTCollectionRequeryAPI\MerchantTransactionCore\obj\Release\net6.0\MerchantTransactionCore.csproj.CoreCompileInputs.cache
+C:\Users\david.mboko\source\repos\GTCollectionRequeryAPI\MerchantTransactionCore\obj\Release\net6.0\MerchantTransactionCore.csproj.CopyComplete
+C:\Users\david.mboko\source\repos\GTCollectionRequeryAPI\MerchantTransactionCore\obj\Release\net6.0\MerchantTransactionCore.dll
+C:\Users\david.mboko\source\repos\GTCollectionRequeryAPI\MerchantTransactionCore\obj\Release\net6.0\refint\MerchantTransactionCore.dll
+C:\Users\david.mboko\source\repos\GTCollectionRequeryAPI\MerchantTransactionCore\obj\Release\net6.0\MerchantTransactionCore.pdb
+C:\Users\david.mboko\source\repos\GTCollectionRequeryAPI\MerchantTransactionCore\obj\Release\net6.0\ref\MerchantTransactionCore.dll

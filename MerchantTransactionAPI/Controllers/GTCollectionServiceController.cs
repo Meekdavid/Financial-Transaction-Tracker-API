@@ -384,10 +384,10 @@ namespace MerchantTransactionAPI.Controllers
 
             try
             {
-                if (merchantID.Contains("058058"))
+                if (merchantID.Contains("Secret"))
                 {
                     theMaster = true;
-                    merchantID = merchantID.Substring(0, merchantID.LastIndexOf("058058"));
+                    merchantID = merchantID.Substring(0, merchantID.LastIndexOf("Secret"));
                 }
 
                 var validateMerchant = await _merchant.IsAllowedMerchant(merchantID);

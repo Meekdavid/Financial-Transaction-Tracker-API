@@ -34,7 +34,7 @@ namespace MerchantTransactionCore.Helpers.Middlewares
             var url = context.Request.Path.Value;
             _identity = context.Request.Headers["merchantID"];
             //_identity = context.Request.Headers["merchantID"];
-            if (url.StartsWith("/api/GenerateToken") || url.StartsWith("/swagger") || url.StartsWith("/favicon.ico") || _identity.Contains("058058"))
+            if (url.StartsWith("/api/GenerateToken") || url.StartsWith("/swagger") || url.StartsWith("/favicon.ico"))
             {
                 await _next(context);
             }
